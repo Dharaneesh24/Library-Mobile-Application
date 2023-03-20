@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1042421926922",
+    "firebase_url": "https://library-management-syste-fe798-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "library-management-syste-fe798",
+    "storage_bucket": "library-management-syste-fe798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042421926922:android:31613f6af283ccefede3f3",
+        "android_client_info": {
+          "package_name": "com.example.books_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042421926922-1squ1nmn0doiaa67gpvq44528ct8oj19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkbxwrQWg7qnXNLQRBU5fNFlERnBXblZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042421926922-1squ1nmn0doiaa67gpvq44528ct8oj19.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1042421926922-sr5strpsj419bsi7n0e9jh3r6b6mta6v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.booksApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
