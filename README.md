@@ -13,3 +13,7 @@ The system simplifies library procedures and does away with the necessity for ma
 
 
 For administering library materials and services on mobile devices, the Department of Computer Science and Engineering's Mobile Library Management System offers a complete solution. The system's categorization, search screen, bookmarking, and profile page capabilities let users easily access and keep track of library items.
+
+
+
+**SCREENSHOTS**
